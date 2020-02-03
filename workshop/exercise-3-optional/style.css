@@ -1,0 +1,18 @@
+body { margin: 0;
+    font-family: Poppins, sans-serif;
+}
+.container { ;
+    
+}
+
+.bar { height: 50px;
+    color:white ;
+    background-color: rgb(61, 61, 61);
+
+}
+.main {
+}
+
+.center-content {
+    align-content: center;
+}
